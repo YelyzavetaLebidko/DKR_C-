@@ -1,0 +1,49 @@
+  - Program start.
+  - Add tariff option call.
+  - New tariff with name "flkj" was added
+  - Output all clients option call.
+  - Program exit.
+  - Program start.
+  - Add client option call.
+  - Program start.
+  - Add client option call.
+  - Add client option call.
+  - Add client option call.
+  - New client with name "user1" was added
+  - Output all clients option call.
+  - Program exit.
+  - Program start.
+  - Output total clients quantity option call.
+  - Program start.
+  - Add tariff option call.
+  - New tariff with name "Ta" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Add tariff option call.
+  - New tariff with name "" was added
+  - Program start.
+  - Program start.
